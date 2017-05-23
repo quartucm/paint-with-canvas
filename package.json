@@ -1,5 +1,5 @@
 {
-  "name": "Paint with Canvas",
+  "name": "Paint_with_Canvas",
   "version": "1.0.0",
   "description": "A simple canvas typer",
   "main": "app.js",
