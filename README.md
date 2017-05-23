@@ -9,4 +9,4 @@ To run locally:
     npm install
     npm build
     
-The letters and placed randomly, so you will have new artwork each time you draw.
+The letters are placed randomly, so you will have new artwork each time you draw.
