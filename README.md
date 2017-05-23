@@ -1,4 +1,4 @@
-###Paint with Canvas
+###Paint with Canvas###
 
 You could say this was inspired by melted crayon artwork.
 
